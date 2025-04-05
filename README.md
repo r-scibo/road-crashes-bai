@@ -21,7 +21,7 @@ This repository contains all the materials developed for a university project co
 
 ## Authors
 - Riccardo Scibetta
-- Matteo Mello
+- Matteo Mello Grand
 
 ## Acknowledgments
 We would like to extend our gratitude to our professors and peers for their  support, feedback, and guidance throughout the project.
