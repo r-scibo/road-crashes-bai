@@ -1,7 +1,7 @@
 # Road Crashes in Milan - Statistical Analysis
 
 ## Project Overview
-This repository contains all the materials developed for a university project conducted as part of the Mathematical Statistics course (Class Code: 30549) during the 2024-2025 academic year, in the second year of the BAI program. The project focuses on a comprehensive statistical analysis of road crashes in Milan during 2022. The analysis covers data cleaning, exploratory data analysis, regression diagnostics, and both linear and logistic regression modeling.
+This repository contains all the materials developed for a university project conducted as part of the Mathematical Statistics course (Class Code: 30549) during the 2024-2025 academic year, in the second year of the BAI program at Bocconi. The project focuses on a comprehensive statistical analysis of road crashes in Milan during 2022. The analysis covers data cleaning, exploratory data analysis, regression diagnostics, and both linear and logistic regression modeling.
 
 ## Repository Contents
 - **Dataset and Metadata**  
