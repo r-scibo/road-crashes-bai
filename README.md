@@ -11,7 +11,7 @@ This repository contains all the materials developed for a university project co
 - **Project Report**  
   A PDF report that documents the project methodology, analyses, findings, and conclusions.
 - **R Code**  
-  R scripts organized by tasks (data preprocessing, analysis, and modeling).
+  R script organized by tasks (data preprocessing, analysis, and modeling).
 
 ## How to Run the Analysis
 1. **Install Required R Packages**  
